@@ -26,3 +26,7 @@ possível.
 
 **Data Limite para entrega**: 23h50min de
 07/07/217 (Sexta-feira)
+
+## Como rodar compilar o projeto
+Para compilar o código, utilize:
+` make `
